@@ -7,6 +7,7 @@ I'm an undergrad student currently learning various languages and trying to spec
    <p align="left">
       <a href="https://www.youtube.com/@adoxcolgaming522">
       
+[![Adoxcols GitHub stats](https://github-readme-stats.vercel.app/api?username=adoxcol)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
