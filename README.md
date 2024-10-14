@@ -11,6 +11,8 @@ I'm an undergrad student currently learning various languages and trying to spec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoxcol)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adoxcol)](https://git.io/streak-stats)
+
 ---
 
 ### 🧰 Languages and Tools
