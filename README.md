@@ -9,6 +9,8 @@ I'm an undergrad student currently learning various languages and trying to spec
       
 [![Adoxcols GitHub stats](https://github-readme-stats.vercel.app/api?username=adoxcol&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoxcol)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🧰 Languages and Tools
