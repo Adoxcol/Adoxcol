@@ -7,16 +7,23 @@ I'm an undergrad student currently learning various languages and trying to spec
    <p align="left">
       <a href="https://www.youtube.com/@adoxcolgaming522">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adoxcol)](https://github.com/ryo-ma/github-profile-trophy)
-      
-[![Adoxcols GitHub stats](https://github-readme-stats.vercel.app/api?username=adoxcol&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoxcol)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=adoxcol)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adoxcol)](https://git.io/streak-stats)
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    
+    [![Adoxcols GitHub stats](https://github-readme-stats.vercel.app/api?username=adoxcol&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yh5jngfeq3h6ifm3qgofpjj2eq)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoxcol)](https://github.com/anuraghazra/github-readme-stats)
 
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adoxcol)](https://git.io/streak-stats)
+
+  </div>
+
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yh5jngfeq3h6ifm3qgofpjj2eq)
+  
+</div>
 ---
 
 ### 🧰 Languages and Tools
