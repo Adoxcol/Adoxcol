@@ -13,6 +13,8 @@ I'm an undergrad student currently learning various languages and trying to spec
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adoxcol)](https://git.io/streak-stats)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yh5jngfeq3h6ifm3qgofpjj2eq)
+
 ---
 
 ### 🧰 Languages and Tools
