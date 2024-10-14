@@ -7,7 +7,7 @@ I'm an undergrad student currently learning various languages and trying to spec
    <p align="left">
       <a href="https://www.youtube.com/@adoxcolgaming522">
 
-<div align="center">
+
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=adoxcol)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -19,11 +19,10 @@ I'm an undergrad student currently learning various languages and trying to spec
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adoxcol)](https://git.io/streak-stats)
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yh5jngfeq3h6ifm3qgofpjj2eq)
+
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yh5jngfeq3h6ifm3qgofpjj2eq)
   
-</div>
----
+
 
 ### 🧰 Languages and Tools
 
