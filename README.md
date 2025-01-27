@@ -24,6 +24,17 @@ Undergrad student trying to break into the tech scene especially the game develo
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 January 2025 - To: 27 January 2025
+
+TypeScript   4 hrs 41 mins   ████████████████████████▒   97.05 %
+Python       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
