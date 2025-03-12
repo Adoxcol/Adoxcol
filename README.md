@@ -26,9 +26,9 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-TeX   0 secs          █████████████████████████   100.00 %
+TeX   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
