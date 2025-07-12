@@ -26,7 +26,7 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
 JavaScript   8 mins          ███████████░░░░░░░░░░░░░░   43.73 %
 Python       4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
