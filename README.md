@@ -26,13 +26,13 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-TypeScript   19 hrs 22 mins  ███████████████████▓░░░░░   78.23 %
-Bash         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Git Config   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+TypeScript   22 hrs 24 mins  ███████████████████░░░░░░   75.57 %
+JavaScript   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Bash         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Git Config   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
