@@ -26,11 +26,11 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-TeX        1 hr 2 mins     █████████████████████▓░░░   86.25 %
-Markdown   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-BibTeX     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TeX        1 hr 23 mins    ██████████████████████▒░░   89.37 %
+Markdown   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+BibTeX     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
