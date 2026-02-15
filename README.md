@@ -26,7 +26,7 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
 Python       32 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
 JSON         15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
