@@ -26,13 +26,13 @@ Undergrad student trying to break into the tech scene especially the game develo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-TeX          2 hrs 35 mins         ██████████░░░░░░░░░░░░░░░   40.27 %
-TypeScript   2 hrs 15 mins         ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Python       1 hr 9 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Other        11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JSON         10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TeX          2 hrs 35 mins         ████████████▓░░░░░░░░░░░░   51.06 %
+Python       1 hr 9 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+TypeScript   54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Other        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
