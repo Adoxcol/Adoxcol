@@ -2,9 +2,7 @@
 
 # Hi, I'm Mahmood Tauhidul 👋
 
-**Full Stack LLM Developer
-
-**
+**Full Stack LLM Developer**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40adoxcol-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/adoxcol) [![X Follow](https://www.shieldcn.dev/x/follow/AdoxcolVAL.svg?variant=branded&size=sm)](https://x.com/AdoxcolVAL) [![Website](https://www.shieldcn.dev/badge/Website-adoxcol.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://adoxcol.com/) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mahfuzur--rahman--60084326b-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/mahfuzur-rahman-60084326b) [![Twitch](https://www.shieldcn.dev/badge/Twitch-Twitch-9146FF.svg?logo=twitch&variant=branded&size=sm)](https://twitch.tv/Adoxcol) [![Mastodon](https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&variant=branded&size=sm)](https://tiktok.com/@Adoxcol) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/mahmoooodn) [![Reddit](https://www.shieldcn.dev/badge/Reddit-Reddit-FF4500.svg?logo=reddit&variant=branded&size=sm)](https://reddit.com/user/AdoxcolGaming)
 
