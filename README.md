@@ -1,23 +1,117 @@
 <div align="center">
 
-# Hi, I'm Mahmood Tauhidul 👋
+```text
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │  [●] [▲] [■]   MAHMOOD_OS // ADOXCOL.SYS  v2.4.0   [DHAKA, BD]         │
+ └────────────────────────────────────────────────────────────────────────┘
+```
 
-**Full Stack LLM Developer**
+# `adoxcol@mahmood-os:~$ whoami`
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40adoxcol-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/adoxcol) [![X Follow](https://www.shieldcn.dev/x/follow/AdoxcolVAL.svg?variant=branded&size=sm)](https://x.com/AdoxcolVAL) [![Website](https://www.shieldcn.dev/badge/Website-adoxcol.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://adoxcol.com/) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mahfuzur--rahman--60084326b-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/mahfuzur-rahman-60084326b) [![Twitch](https://www.shieldcn.dev/badge/Twitch-Twitch-9146FF.svg?logo=twitch&variant=branded&size=sm)](https://twitch.tv/Adoxcol) [![Mastodon](https://www.shieldcn.dev/badge/Mastodon-Mastodon-6364FF.svg?logo=mastodon&variant=branded&size=sm)](https://tiktok.com/@Adoxcol) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://instagram.com/mahmoooodn) [![Reddit](https://www.shieldcn.dev/badge/Reddit-Reddit-FF4500.svg?logo=reddit&variant=branded&size=sm)](https://reddit.com/user/AdoxcolGaming)
+### **Mahmood Tauhidul**
+**Full-Stack AI Developer & Systems Maker**  
+*Building at the intersection of scalable web platforms, local desktop software, and LLM systems.*
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/adoxcol.svg?variant=secondary&size=sm)](https://github.com/adoxcol?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/adoxcol.svg?variant=secondary&size=sm)](https://github.com/adoxcol?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-23-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/adoxcol?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Dhaka%2CBangladesh-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-RemoteIntegrity-1f2937.svg?logo=building&variant=ghost&size=sm)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://adoxcol.com/)
+[![Studio Music Player](https://img.shields.io/badge/STUDIO-studio.adoxcol.com-e47761?style=for-the-badge&logo=airplayaudio&logoColor=ffffff&labelColor=192c25)](https://studio.adoxcol.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mahmood_Tauhidul-bfd6ca?style=for-the-badge&logo=linkedin&logoColor=192c25&labelColor=192c25)](https://www.linkedin.com/in/mahfuzur-rahman-60084326b/)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=Adoxcol&label=SYS_HITS&color=bfd6ca&style=for-the-badge)](https://adoxcol.com/)
 
 </div>
 
-## 🛠️ Skills & Technologies
+---
 
-![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm) ![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Zustand](https://www.shieldcn.dev/badge/-Zustand-FFB800.svg?logo=zustand&variant=branded&size=sm)
+### `// 01. SYSTEM_TELEMETRY.LOG`
 
-## 📦 Top Repositories
+<div align="center">
 
-[![flowervisualnovel ⭐ 1](https://www.shieldcn.dev/github/stars/Adoxcol/flowervisualnovel.svg?variant=secondary&size=sm)](https://github.com/Adoxcol/flowervisualnovel) [![UniPlan_Final_1 ⭐ 1](https://www.shieldcn.dev/github/stars/Adoxcol/UniPlan_Final_1.svg?variant=secondary&size=sm)](https://github.com/Adoxcol/UniPlan_Final_1) [![EIA-DATAMANAGEMENT ⭐ 1](https://www.shieldcn.dev/github/stars/Adoxcol/EIA-DATAMANAGEMENT.svg?variant=secondary&size=sm)](https://github.com/Adoxcol/EIA-DATAMANAGEMENT)
+<!-- Live Dynamic Streak & Total Contributions rendered in Mahmood OS Dark Moss & Coral Palette -->
+<a href="https://github.com/Adoxcol">
+  <img src="https://streak-stats.demolab.com/?user=Adoxcol&theme=custom&background=192C25&border=687764&stroke=687764&ring=BFD6CA&fire=E47761&currStreakNum=BFD6CA&sideNums=DCE0C7&currStreakLabel=E47761&sideLabels=9AA590&dates=9AA590" alt="GitHub Streak & Total Contributions" />
+</a>
+
+<br/><br/>
+
+[![Total Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAdoxcol%3Fy%3Dall&query=%24.total%5B*%5D&label=LIFETIME%20CONTRIBUTIONS&color=e47761&labelColor=192c25&style=for-the-badge&logo=git&logoColor=bfd6ca)](https://github.com/Adoxcol)
+[![Public Repositories](https://img.shields.io/badge/REPOSITORIES-25%2B-bfd6ca?style=for-the-badge&logo=github&logoColor=192c25&labelColor=192c25)](https://github.com/Adoxcol?tab=repositories)
+[![Company](https://img.shields.io/badge/ORGANIZATION-RemoteIntegrity-bfd6ca?style=for-the-badge&logo=codeforces&logoColor=192c25&labelColor=192c25)](https://github.com/Adoxcol)
+
+</div>
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+### `// 02. NOW_PLAYING — STUDIO / A LITTLE LISTENING ROOM`
+
+```text
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │  ►  [ ılılılllılıll ]  Studio Desktop Audio Engine                     │
+ │     Track: "Synthesized Sketch 01"  •  Format: FLAC 24-bit / 96kHz     │
+ │     Engine: libmpv + media_kit      •  State: Playing                  │
+ └────────────────────────────────────────────────────────────────────────┘
+```
+> *"A fast, customizable music player built for people who care about their collection. Local libraries meet self-hosted streaming in a workspace that feels like home."*  
+> **Explore & Download:** [studio.adoxcol.com](https://studio.adoxcol.com) • [GitHub Repository](https://github.com/Adoxcol/studio)
+
+---
+
+### `// 03. FEATURED_EXECUTABLES`
+
+```bash
+adoxcol@mahmood-os:~/projects$ ls -la --sort=stars
+```
+
+| Executable / Project | Stack | Description | Source / Live |
+| :--- | :--- | :--- | :--- |
+| **`Studio.exe`** | `Flutter` `Dart` `Riverpod` `SQLite` `libmpv` | Cross-platform desktop audio player & music management suite with local/streaming sync. | [Repo](https://github.com/Adoxcol/studio) • [Website](https://studio.adoxcol.com) |
+| **`UniPlan.app`** | `Next.js` `TypeScript` `WebSockets` `Supabase` | Real-time student academic planning roadmap, degree audit & course path visualization. | [Repo](https://github.com/Adoxcol/UniPlan_Final_1) • [Live](https://uni-plan-final-1.vercel.app/) |
+| **`MentalWellness.ai`** | `Next.js` `React` `Tailwind` `OpenAI` | AI-assisted companion exploring calm, non-clinical reflective check-ins and empathetic interactions. | [Repo](https://github.com/Adoxcol/mentalwellness) • [Live](https://evergreen-alpha-eight.vercel.app/) |
+| **`HospitalCMS.sys`** | `React` `Node.js` `Express` `PayloadCMS` | High-traffic public portal for a national institute delivering medical services & announcements. | [Repo](https://github.com/BinduLogic/government-hospital-website) • [Live](https://nicvd-website.bgdtup.easypanel.host/en) |
+
+---
+
+### `// 04. HARDWARE & SOFTWARE MATRIX`
+
+```text
+┌── [ FRONTEND & UI ] ──────────────────────────────────────────────────┐
+│  Next.js 14  •  React  •  TypeScript  •  Tailwind CSS  •  Radix UI    │
+├── [ BACKEND & DATA ] ─────────────────────────────────────────────────┘
+│  Node.js  •  Go (Golang)  •  Express  •  Payload CMS  •  Supabase     │
+│  PostgreSQL  •  SQLite (Drift)  •  WebSockets                         │
+├── [ SYSTEMS, DESKTOP & AUDIO ] ───────────────────────────────────────┐
+│  Flutter Desktop  •  Dart  •  Riverpod  •  libmpv Engine  •  Python   │
+├── [ AI & INTELLIGENCE ] ──────────────────────────────────────────────┘
+│  LLM Integrations  •  LangChain  •  Prompt Engineering  •  RAG Flows  │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `// 05. CONTRIBUTION_GRID_SNAKE`
+
+<!-- The snake below is dynamically generated daily by GitHub Actions eating your green contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adoxcol/Adoxcol/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
+### `// 06. INITIATE_COMMUNICATION`
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  Have a project in mind, an interesting problem, or music suggestions? │
+│  Terminal is listening on all open sockets:                            │
+│                                                                        │
+│  • Web:      https://adoxcol.com                                       │
+│  • Audio:    https://studio.adoxcol.com                                │
+│  • Mail:     onelittle1221@gmail.com                                   │
+│  • LinkedIn: https://linkedin.com/in/mahfuzur-rahman-60084326b         │
+│  • Location: Dhaka, Bangladesh                                         │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+  <sub>Engineered with precision for <strong>Mahmood OS</strong> • <i>"Engineer by trade. Curious by default."</i></sub>
+</div>
