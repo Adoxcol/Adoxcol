@@ -42,18 +42,23 @@
 
 ---
 
-### `// 02. NOW_PLAYING — STUDIO / A LITTLE LISTENING ROOM`
-
+### `// 02. NOW_PLAYING — STUDIO x SPOTIFY AUDIO DECK`
 ```text
  ┌────────────────────────────────────────────────────────────────────────┐
- │  ►  [ ılılılllılıll ]  Studio Desktop Audio Engine                     │
- │     Track: "Synthesized Sketch 01"  •  Format: FLAC 24-bit / 96kHz     │
- │     Engine: libmpv + media_kit      •  State: Playing                  │
+ │  ►  [ ılılılllılıll ]  Studio Desktop Audio Engine  •  Spotify Feed    │
+ │     Format: FLAC / 24-bit Stream   •  Status: Sync Active              │
  └────────────────────────────────────────────────────────────────────────┘
 ```
+<div align="center">
+<!-- SPOTIFY_RECENTLY_PLAYED_START -->
+<a href="https://open.spotify.com/user/31yh5jngfeq3h6ifm3qgofpjj2eq">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31yh5jngfeq3h6ifm3qgofpjj2eq" alt="Spotify Recently Played" />
+</a>
+<!-- SPOTIFY_RECENTLY_PLAYED_END -->
+<br/>
 > *"A fast, customizable music player built for people who care about their collection. Local libraries meet self-hosted streaming in a workspace that feels like home."*  
 > **Explore & Download:** [studio.adoxcol.com](https://studio.adoxcol.com) • [GitHub Repository](https://github.com/Adoxcol/studio)
-
+</div>
 ---
 
 ### `// 03. FEATURED_EXECUTABLES`
