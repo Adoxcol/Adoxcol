@@ -1,122 +1,83 @@
 <div align="center">
 
-```text
- ┌────────────────────────────────────────────────────────────────────────┐
- │  [●] [▲] [■]   MAHMOOD_OS // ADOXCOL.SYS  v2.4.0   [DHAKA, BD]         │
- └────────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://adoxcol.com/"><img src="assets/hero.svg" width="100%" alt="Mahmood Tauhidul, Full-Stack AI Developer and Systems Maker" /></a>
 
-# `adoxcol@mahmood-os:~$ whoami`
-
-### **Mahmood Tauhidul**
-**Full-Stack AI Developer & Systems Maker**  
-*Building at the intersection of scalable web platforms, local desktop software, and LLM systems.*
-
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://adoxcol.com/)
 [![Studio Music Player](https://img.shields.io/badge/STUDIO-studio.adoxcol.com-e47761?style=for-the-badge&logo=airplayaudio&logoColor=ffffff&labelColor=192c25)](https://studio.adoxcol.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mahmood_Tauhidul-bfd6ca?style=for-the-badge&logo=linkedin&logoColor=192c25&labelColor=192c25)](https://www.linkedin.com/in/mahfuzur-rahman-60084326b/)
 [![Profile Visitors](https://komarev.com/ghpvc/?username=Adoxcol&label=SYS_HITS&color=bfd6ca&style=for-the-badge)](https://adoxcol.com/)
 
-</div>
+<br/>
 
----
+<img src="assets/s-stats.svg" width="100%" alt="01 System telemetry" />
 
-### `// 01. SYSTEM_TELEMETRY.LOG`
-
-<div align="center">
-
-<!-- Live Dynamic Streak & Total Contributions rendered in Mahmood OS Dark Moss & Coral Palette -->
 <a href="https://github.com/Adoxcol">
-  <img src="https://streak-stats.demolab.com/?user=Adoxcol&theme=custom&background=192C25&border=687764&stroke=687764&ring=BFD6CA&fire=E47761&currStreakNum=BFD6CA&sideNums=DCE0C7&currStreakLabel=E47761&sideLabels=9AA590&dates=9AA590" alt="GitHub Streak & Total Contributions" />
+  <img src="https://streak-stats.demolab.com/?user=Adoxcol&theme=custom&background=192C25&border=687764&stroke=687764&ring=BFD6CA&fire=E47761&currStreakNum=BFD6CA&sideNums=DCE0C7&currStreakLabel=E47761&sideLabels=9AA590&dates=9AA590" alt="GitHub Streak and Total Contributions" />
 </a>
 
 <br/><br/>
 
-[![Total Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAdoxcol%3Fy%3Dall&query=%24.total%5B*%5D&label=LIFETIME%20CONTRIBUTIONS&color=e47761&labelColor=192c25&style=for-the-badge&logo=git&logoColor=bfd6ca)](https://github.com/Adoxcol)
-[![Public Repositories](https://img.shields.io/badge/REPOSITORIES-25%2B-bfd6ca?style=for-the-badge&logo=github&logoColor=192c25&labelColor=192c25)](https://github.com/Adoxcol?tab=repositories)
-[![Company](https://img.shields.io/badge/ORGANIZATION-RemoteIntegrity-bfd6ca?style=for-the-badge&logo=codeforces&logoColor=192c25&labelColor=192c25)](https://github.com/Adoxcol)
+[![Company](https://img.shields.io/badge/ORGANIZATION-RemoteIntegrity-bfd6ca?style=for-the-badge&logoColor=192c25&labelColor=192c25)](https://github.com/Adoxcol)
 
-</div>
+<br/>
 
----
+<img src="assets/s-audio.svg" width="100%" alt="02 Now playing" />
 
-### `// 02. NOW_PLAYING — STUDIO x SPOTIFY AUDIO DECK`
-```text
- ┌────────────────────────────────────────────────────────────────────────┐
- │  ►  [ ılılılllılıll ]  Studio Desktop Audio Engine  •  Spotify Feed    │
- │     Format: FLAC / 24-bit Stream   •  Status: Sync Active              │
- └────────────────────────────────────────────────────────────────────────┘
-```
-<div align="center">
 <!-- SPOTIFY_RECENTLY_PLAYED_START -->
 <a href="https://open.spotify.com/user/31yh5jngfeq3h6ifm3qgofpjj2eq">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31yh5jngfeq3h6ifm3qgofpjj2eq" alt="Spotify Recently Played" />
 </a>
 <!-- SPOTIFY_RECENTLY_PLAYED_END -->
+
 <br/>
-> *"A fast, customizable music player built for people who care about their collection. Local libraries meet self-hosted streaming in a workspace that feels like home."*  
-> **Explore & Download:** [studio.adoxcol.com](https://studio.adoxcol.com) • [GitHub Repository](https://github.com/Adoxcol/studio)
-</div>
----
 
-### `// 03. FEATURED_EXECUTABLES`
+<img src="assets/s-projects.svg" width="100%" alt="03 Featured executables" />
 
-```bash
-adoxcol@mahmood-os:~/projects$ ls -la --sort=stars
-```
+<a href="https://github.com/Adoxcol/velo"><img src="assets/velo.svg" width="49%" alt="Velo download manager" /></a>
+<a href="https://github.com/Adoxcol/studio"><img src="assets/studio.svg" width="49%" alt="Studio desktop music player" /></a>
+<a href="https://github.com/Adoxcol/UniPlan_Final_1"><img src="assets/uniplan.svg" width="49%" alt="UniPlan academic planner" /></a>
+<a href="https://evergreen-alpha-eight.vercel.app/"><img src="assets/wellness.svg" width="49%" alt="MentalWellness AI companion" /></a>
+<a href="https://nicvd-website.bgdtup.easypanel.host/en"><img src="assets/hospital.svg" width="49%" alt="Hospital CMS public portal" /></a>
+<a href="https://github.com/Adoxcol/tonekith"><img src="assets/tonekith.svg" width="49%" alt="ToneKith community tone library" /></a>
 
-| Executable / Project | Stack | Description | Source / Live |
-| :--- | :--- | :--- | :--- |
-| **`Studio.exe`** | `Flutter` `Dart` `Riverpod` `SQLite` `libmpv` | Cross-platform desktop audio player & music management suite with local/streaming sync. | [Repo](https://github.com/Adoxcol/studio) • [Website](https://studio.adoxcol.com) |
-| **`UniPlan.app`** | `Next.js` `TypeScript` `WebSockets` `Supabase` | Real-time student academic planning roadmap, degree audit & course path visualization. | [Repo](https://github.com/Adoxcol/UniPlan_Final_1) • [Live](https://uni-plan-final-1.vercel.app/) |
-| **`MentalWellness.ai`** | `Next.js` `React` `Tailwind` `OpenAI` | AI-assisted companion exploring calm, non-clinical reflective check-ins and empathetic interactions. | [Repo](https://github.com/Adoxcol/mentalwellness) • [Live](https://evergreen-alpha-eight.vercel.app/) |
-| **`HospitalCMS.sys`** | `React` `Node.js` `Express` `PayloadCMS` | High-traffic public portal for a national institute delivering medical services & announcements. | [Repo](https://github.com/BinduLogic/government-hospital-website) • [Live](https://nicvd-website.bgdtup.easypanel.host/en) |
+<br/><br/>
 
----
+<img src="assets/s-stack.svg" width="100%" alt="04 Hardware and software matrix" />
 
-### `// 04. HARDWARE & SOFTWARE MATRIX`
+<sub><b>FRONTEND &amp; UI</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, Tailwind CSS" />
 
-```text
-┌── [ FRONTEND & UI ] ──────────────────────────────────────────────────┐
-│  Next.js 14  •  React  •  TypeScript  •  Tailwind CSS  •  Radix UI    │
-├── [ BACKEND & DATA ] ─────────────────────────────────────────────────┘
-│  Node.js  •  Go (Golang)  •  Express  •  Payload CMS  •  Supabase     │
-│  PostgreSQL  •  SQLite (Drift)  •  WebSockets                         │
-├── [ SYSTEMS, DESKTOP & AUDIO ] ───────────────────────────────────────┐
-│  Flutter Desktop  •  Dart  •  Riverpod  •  libmpv Engine  •  Python   │
-├── [ AI & INTELLIGENCE ] ──────────────────────────────────────────────┘
-│  LLM Integrations  •  LangChain  •  Prompt Engineering  •  RAG Flows  │
-└───────────────────────────────────────────────────────────────────────┘
-```
+<sub><b>BACKEND &amp; DATA</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,go,express,supabase,postgres,sqlite&theme=dark" alt="Node.js, Go, Express, Supabase, PostgreSQL, SQLite" />
 
----
+<sub><b>SYSTEMS, DESKTOP &amp; AUDIO</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python&theme=dark" alt="Flutter, Dart, Python" />
 
-### `// 05. CONTRIBUTION_GRID_SNAKE`
+<sub><b>AI &amp; INTELLIGENCE</b></sub><br/>
 
-<!-- The snake below is dynamically generated daily by GitHub Actions eating your green contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adoxcol/Adoxcol/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+![LLM Integrations](https://img.shields.io/badge/LLM_INTEGRATIONS-e47761?style=for-the-badge&labelColor=192c25)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-bfd6ca?style=for-the-badge&logo=langchain&logoColor=192c25)
+![RAG Flows](https://img.shields.io/badge/RAG_FLOWS-e47761?style=for-the-badge&labelColor=192c25)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-bfd6ca?style=for-the-badge&labelColor=192c25)
 
----
+<br/>
 
-### `// 06. INITIATE_COMMUNICATION`
+<img src="assets/s-snake.svg" width="100%" alt="05 Contribution grid snake" />
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  Have a project in mind, an interesting problem, or music suggestions? │
-│  Terminal is listening on all open sockets:                            │
-│                                                                        │
-│  • Web:      https://adoxcol.com                                       │
-│  • Audio:    https://studio.adoxcol.com                                │
-│  • Mail:     onelittle1221@gmail.com                                   │
-│  • LinkedIn: https://linkedin.com/in/mahfuzur-rahman-60084326b         │
-│  • Location: Dhaka, Bangladesh                                         │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/Adoxcol/Adoxcol/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
-<div align="center">
-  <sub>Engineered with precision for <strong>Mahmood OS</strong> • <i>"Engineer by trade. Curious by default."</i></sub>
+<br/>
+
+<img src="assets/s-contact.svg" width="100%" alt="06 Initiate communication" />
+
+Have a project in mind, an interesting problem, or music suggestions?
+
+[![Web](https://img.shields.io/badge/WEB-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://adoxcol.com)
+[![Mail](https://img.shields.io/badge/MAIL-onelittle1221%40gmail.com-e47761?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=192c25)](mailto:onelittle1221@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-bfd6ca?style=for-the-badge&logo=linkedin&logoColor=192c25&labelColor=192c25)](https://linkedin.com/in/mahfuzur-rahman-60084326b)
+
+<sub>Engineered with precision for <strong>Mahmood OS</strong></sub>
+
 </div>
