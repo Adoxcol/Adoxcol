@@ -98,21 +98,21 @@ section("s-stack.svg", "04", "HARDWARE & SOFTWARE MATRIX")
 section("s-snake.svg", "05", "CONTRIBUTION_GRID_SNAKE")
 section("s-contact.svg", "06", "INITIATE_COMMUNICATION")
 
+card("deckforge.svg", "DeckForge", "HARDWARE CONTROLLER",
+     ["Open-source Windows controller for Stream Deck-style", "hardware: keys, knobs, touch strips, macros & OBS."],
+     ["Rust", "Tauri", "React", "HIDAPI"], CORAL, 1)
 card("velo.svg", "Velo", "DOWNLOAD MANAGER",
      ["Open-source download manager: Windows desktop and", "browser integration, plus a Linux and macOS CLI."],
-     ["Go", "Windows", "Linux", "macOS"], CORAL, 3)
+     ["Go", "Windows", "Linux", "macOS"], SAGE, 3)
 card("studio.svg", "Studio", "DESKTOP AUDIO",
      ["A fast, customizable desktop music player with a", "local library first and self-hosted streaming."],
      ["Flutter", "Riverpod", "SQLite", "libmpv"], SAGE, 5)
 card("uniplan.svg", "UniPlan", "ACADEMIC PLANNING",
      ["Real-time academic roadmaps, degree audits, and", "course path visualization for students."],
-     ["Next.js", "TypeScript", "WebSockets", "Supabase"], SAGE, 7)
+     ["Next.js", "TypeScript", "WebSockets", "Supabase"], CORAL, 7)
 card("wellness.svg", "MentalWellness", "AI COMPANION",
      ["An AI companion exploring calm, non-clinical", "reflective check-ins and empathetic interaction."],
      ["Next.js", "React", "Tailwind", "OpenAI"], CORAL, 9)
 card("hospital.svg", "Hospital CMS", "PUBLIC PORTAL",
      ["High-traffic portal for a national institute's", "medical services and announcements."],
-     ["React", "Node.js", "Express", "PayloadCMS"], CORAL, 11)
-card("tonekith.svg", "ToneKith", "MUSIC COMMUNITY",
-     ["A community-based tone library for sharing", "and discovering sounds."],
-     ["TypeScript"], SAGE, 13)
+     ["React", "Node.js", "Express", "PayloadCMS"], SAGE, 11)

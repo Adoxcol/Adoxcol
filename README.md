@@ -1,13 +1,15 @@
 <div align="center">
 
-<a href="https://adoxcol.com/"><img src="assets/hero.svg" width="100%" alt="Mahmood Tauhidul, Full-Stack AI Developer and Systems Maker" /></a>
+<a href="https://www.adoxcol.com/"><img src="assets/hero.svg" width="100%" alt="Mahmood Tauhidul, Full-Stack AI Developer and Systems Maker" /></a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://adoxcol.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://www.adoxcol.com/)
+[![DeckForge](https://img.shields.io/badge/DECKFORGE-deckforge.adoxcol.com-e47761?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=192c25)](https://deckforge.adoxcol.com/)
+[![Velo Download Manager](https://img.shields.io/badge/VELO-velo.adoxcol.com-bfd6ca?style=for-the-badge&logo=go&logoColor=192c25&labelColor=192c25)](https://velo.adoxcol.com/)
 [![Studio Music Player](https://img.shields.io/badge/STUDIO-studio.adoxcol.com-e47761?style=for-the-badge&logo=airplayaudio&logoColor=ffffff&labelColor=192c25)](https://studio.adoxcol.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mahmood_Tauhidul-bfd6ca?style=for-the-badge&logo=linkedin&logoColor=192c25&labelColor=192c25)](https://www.linkedin.com/in/mahfuzur-rahman-60084326b/)
-[![Profile Visitors](https://komarev.com/ghpvc/?username=Adoxcol&label=SYS_HITS&color=bfd6ca&style=for-the-badge)](https://adoxcol.com/)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=Adoxcol&label=SYS_HITS&color=bfd6ca&style=for-the-badge)](https://www.adoxcol.com/)
 
 <br/>
 
@@ -35,12 +37,12 @@
 
 <img src="assets/s-projects.svg" width="100%" alt="03 Featured executables" />
 
-<a href="https://github.com/Adoxcol/velo"><img src="assets/velo.svg" width="49%" alt="Velo download manager" /></a>
-<a href="https://github.com/Adoxcol/studio"><img src="assets/studio.svg" width="49%" alt="Studio desktop music player" /></a>
+<a href="https://deckforge.adoxcol.com/"><img src="assets/deckforge.svg" width="49%" alt="DeckForge stream deck hardware controller" /></a>
+<a href="https://velo.adoxcol.com/"><img src="assets/velo.svg" width="49%" alt="Velo download manager" /></a>
+<a href="https://studio.adoxcol.com/"><img src="assets/studio.svg" width="49%" alt="Studio desktop music player" /></a>
 <a href="https://github.com/Adoxcol/UniPlan_Final_1"><img src="assets/uniplan.svg" width="49%" alt="UniPlan academic planner" /></a>
 <a href="https://evergreen-alpha-eight.vercel.app/"><img src="assets/wellness.svg" width="49%" alt="MentalWellness AI companion" /></a>
 <a href="https://nicvd-website.bgdtup.easypanel.host/en"><img src="assets/hospital.svg" width="49%" alt="Hospital CMS public portal" /></a>
-<a href="https://github.com/Adoxcol/tonekith"><img src="assets/tonekith.svg" width="49%" alt="ToneKith community tone library" /></a>
 
 <br/><br/>
 
@@ -53,7 +55,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,go,express,supabase,postgres,sqlite&theme=dark" alt="Node.js, Go, Express, Supabase, PostgreSQL, SQLite" />
 
 <sub><b>SYSTEMS, DESKTOP &amp; AUDIO</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,python&theme=dark" alt="Flutter, Dart, Python" />
+<img src="https://skillicons.dev/icons?i=rust,tauri,flutter,dart,python&theme=dark" alt="Rust, Tauri, Flutter, Dart, Python" />
 
 <sub><b>AI &amp; INTELLIGENCE</b></sub><br/>
 
@@ -74,7 +76,7 @@
 
 Have a project in mind, an interesting problem, or music suggestions?
 
-[![Web](https://img.shields.io/badge/WEB-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://adoxcol.com)
+[![Web](https://img.shields.io/badge/WEB-adoxcol.com-bfd6ca?style=for-the-badge&logo=safari&logoColor=192c25&labelColor=192c25)](https://www.adoxcol.com)
 [![Mail](https://img.shields.io/badge/MAIL-onelittle1221%40gmail.com-e47761?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=192c25)](mailto:onelittle1221@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-bfd6ca?style=for-the-badge&logo=linkedin&logoColor=192c25&labelColor=192c25)](https://linkedin.com/in/mahfuzur-rahman-60084326b)
 
